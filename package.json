@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/prp1/testAzure/issues"
   },
-  "homepage": "https://github.com/prp1/testAzure#readme"
+  "homepage": "https://github.com/prp1/testAzure#readme",
+  "engine": "node 5.0.0"
 }
